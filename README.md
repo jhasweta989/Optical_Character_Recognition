@@ -1,5 +1,5 @@
 # Optical_Character_Recognition
-This repositery has a method to detect characters from the image. It uses pytess
+This repositery has a method to detect characters from the image. It uses opencv to read image and pytesseract to get text in the image.
 ![Input](pic11.JPG "Input")
 
 ![ouput](output1.JPG "Output")
@@ -8,6 +8,9 @@ This repositery has a method to detect characters from the image. It uses pytess
 
 
 ###Step to follow
+
 clone the repositery
+
 install requirements
+
 run server.py
